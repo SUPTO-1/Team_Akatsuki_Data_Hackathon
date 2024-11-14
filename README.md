@@ -6,7 +6,7 @@ Welcome to the Coffee Shop Sales Dashboard, an interactive tool designed to prov
 
 ## Live Demo
 
-Access the live version of the dashboard here: [Coffee Shop Sales Dashboard]([https://your-app-name.streamlit.app](https://team-akatsuki.streamlit.app/))
+Access the live version of the dashboard here: [Coffee Shop Sales Dashboard](https://team-akatsuki.streamlit.app)
 
 ## Table of Contents
 1. [Overview](#overview)
