@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+matplotlib
+statsmodels  # if using ARIMA models
+mlxtend  # if using association rules for market basket analysis
