@@ -2,5 +2,6 @@ streamlit
 pandas
 plotly
 matplotlib
+seaborn
 statsmodels  # if using ARIMA models
 mlxtend  # if using association rules for market basket analysis
